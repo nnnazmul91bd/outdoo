@@ -1,0 +1,162 @@
+@media (max-width: 768px){
+.banner_content h1 {
+font-size: 60px;
+padding: 40px 0;
+}
+.quote h2 {
+max-width: 345px;
+margin: auto;
+padding-bottom: 20px;
+}
+.quote p {
+max-width: 400px;
+margin: auto;
+}
+.event_section{
+overflow-x: hidden;
+}
+}
+@media (max-width: 576px){
+.banner_content h1 {
+font-size: 40px;
+padding: 30px 0;
+}
+.banner_content h4{
+font-size: 18px;
+}
+.btn{
+padding: 15px 30px;
+}
+
+.event .btn{
+padding: 15px 30px;
+margin-bottom: 30px;
+}
+.event_section h1{
+font-size: 35px;
+}
+.explore h1{
+font-size: 35px;
+}
+.upcoming_section{
+text-align: center;
+}
+.upcoming h1{
+text-align: center;
+max-width: 400px;
+margin: auto;
+}
+.upcoming .line {
+margin-left: auto;
+margin-right: auto;
+}
+.upcoming p {
+padding-bottom: 30px;
+max-width: 384px;
+margin: auto;
+}
+footer{
+text-align: center;
+}
+.flogo .nav{
+justify-content: center;
+}
+.fcontent{
+margin-top: 45px;
+}
+.fcontent .for_449{
+width: 30%;
+display: flex;
+justify-content: flex-end;
+}
+.fcontent .for_450{
+width: 70%;
+justify-content: left;
+display: flex;
+}
+}
+@media (max-width: 476px){
+.banner_content h1 {
+font-size: 30px;
+padding: 25px 0;
+}
+.btn {
+padding: 10px 20px;
+font-size: 11px;
+}
+.banner_content h4 {
+font-size: 16px;
+}
+.banner_content .line {
+height: 2px;
+width: 100px;
+background: red;
+margin: auto;
+}
+.quote h2 {
+font-size: 16px;
+padding-top: 20px;
+}
+.quote p {
+font-size: 12px;
+}
+.event_section h1 {
+font-size: 25px;
+font-weight: 500;
+}
+.event {
+text-align: center;
+padding: 0 20px;
+}
+.event h2{
+font-size: 17px;
+}
+.event p{
+font-size: 14px;
+}
+.event .btn {
+padding: 10px 20px;
+font-size: 12px;
+}
+.explore h1 {
+font-size: 25px;
+}
+.explore p {
+font-size: 13px;
+}
+.upcoming h1 {
+
+line-height: 40px;
+font-size: 25px;
+}
+}
+@media (max-height: 320px){
+.banner_content h1 {
+font-size: 24px;
+padding: 20px 0;
+}
+.banner_content h4 {
+font-size: 12px;
+}
+.banner_content .line{
+width: 80px;
+}
+.explore h1 {
+font-size: 20px;
+line-height: 32px;
+max-width: 145px;
+}
+.upcoming h1 {
+line-height: 35px;
+font-size: 20px;
+}
+.upcoming {
+padding: 0 10px;
+}
+.fcontent h4{
+font-size: 16px!important;
+}
+.flogo p {
+margin-bottom: 30px!important;
+}
+}
